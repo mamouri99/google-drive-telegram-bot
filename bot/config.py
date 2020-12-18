@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1352471136:AAHFcuXzcWEhmVBxuiq9NLm-PUHpEICaQXg"
+    APP_ID = "2015004"
+    API_HASH = "a9a2d77b03e74b036dcf0d3302b8a5fc"
+    DATABASE_URL = "postgres://tnyiyzedmmhxcr:3abe22a0f6a96bff569f6be87de357b2b51ed77e03a7d54181db9e1021106c6e@ec2-35-169-184-61.compute-1.amazonaws.com:5432/d35rgprv6ouidm"
+    SUDO_USERS = "665233320" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/GreyCinema"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
